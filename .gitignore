@@ -1,0 +1,46 @@
+# Configuration d'éditeur
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers temporaires
+tmp/
+*._tmp
+
+# Fichiers d'environnement
+.env
+
+# Dossier de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+
+# Checkpoints Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers de log
+*.log*
+
+# Fichiers ou dossiers liés aux données de trading
+*.db
+*.joblib
+*.parquet
+*.csv
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
