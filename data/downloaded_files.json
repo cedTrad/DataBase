@@ -1,0 +1,130 @@
+{
+  "BTCUSDT_2024-06": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 6,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:24:12.641657"
+  },
+  "BTCUSDT_2024-09": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 9,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:25:20.761703"
+  },
+  "BTCUSDT_2024-02": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 2,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:25:57.211180"
+  },
+  "BTCUSDT_2024-01": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 1,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:28:49.655644"
+  },
+  "BTCUSDT_2024-08": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 8,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:30:04.150577"
+  },
+  "BTCUSDT_2024-12": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 12,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:32:19.989734"
+  },
+  "BTCUSDT_2024-05": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 5,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:34:16.619170"
+  },
+  "BTCUSDT_2024-11": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 11,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:36:00.504197"
+  },
+  "BTCUSDT_2024-07": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 7,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:37:36.368273"
+  },
+  "BTCUSDT_2024-10": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 10,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:39:41.567482"
+  },
+  "BTCUSDT_2024-04": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 4,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:40:34.189359"
+  },
+  "BTCUSDT_2025-02": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 2,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:44:20.258273"
+  },
+  "BTCUSDT_2025-04": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 4,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:46:58.678660"
+  },
+  "BTCUSDT_2025-08": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 8,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:47:28.819807"
+  },
+  "BTCUSDT_2024-03": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 3,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:47:51.547832"
+  },
+  "BTCUSDT_2025-05": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 5,
+    "date": 1,
+    "period": "monthly",
+    "downloaded_at": "2026-01-11T14:48:54.134903"
+  }
+}

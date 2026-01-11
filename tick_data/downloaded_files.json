@@ -1,0 +1,485 @@
+{
+  "BTCUSDT_2024-01": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T16:48:41.440471"
+  },
+  "BTCUSDT_2024-02": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T16:50:27.012896"
+  },
+  "BTCUSDT_2024-03": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T16:53:36.962020"
+  },
+  "BTCUSDT_2024-04": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T16:56:43.601242"
+  },
+  "BTCUSDT_2024-05": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T16:58:46.183843"
+  },
+  "BTCUSDT_2024-06": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:00:16.616774"
+  },
+  "BTCUSDT_2024-07": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:02:02.287055"
+  },
+  "BTCUSDT_2024-08": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:04:17.629384"
+  },
+  "BTCUSDT_2024-09": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:06:02.859599"
+  },
+  "BTCUSDT_2024-10": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:07:30.288331"
+  },
+  "BTCUSDT_2024-11": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:09:38.137447"
+  },
+  "BTCUSDT_2024-12": {
+    "symbol": "BTCUSDT",
+    "year": 2024,
+    "month": 12,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:12:06.110907"
+  },
+  "BTCUSDT_2025-01": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:14:34.296695"
+  },
+  "BTCUSDT_2025-02": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:16:41.560002"
+  },
+  "BTCUSDT_2025-03": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:19:07.041913"
+  },
+  "BTCUSDT_2025-04": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:21:33.919706"
+  },
+  "BTCUSDT_2025-05": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:23:21.961104"
+  },
+  "BTCUSDT_2025-06": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:25:00.294373"
+  },
+  "BTCUSDT_2025-07": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:26:21.442554"
+  },
+  "BTCUSDT_2025-08": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:27:54.454631"
+  },
+  "BTCUSDT_2025-09": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:29:05.374006"
+  },
+  "BTCUSDT_2025-10": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:31:18.917885"
+  },
+  "BTCUSDT_2025-11": {
+    "symbol": "BTCUSDT",
+    "year": 2025,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:34:16.359274"
+  },
+  "ETHUSDT_2024-01": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:45:12.884149"
+  },
+  "ETHUSDT_2024-02": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:46:31.233929"
+  },
+  "ETHUSDT_2024-03": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:48:35.969898"
+  },
+  "ETHUSDT_2024-04": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:50:34.295196"
+  },
+  "ETHUSDT_2024-05": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:52:17.083690"
+  },
+  "ETHUSDT_2024-06": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:53:29.132715"
+  },
+  "ETHUSDT_2024-07": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:54:48.832918"
+  },
+  "ETHUSDT_2024-08": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:56:30.041675"
+  },
+  "ETHUSDT_2024-09": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:57:47.653476"
+  },
+  "ETHUSDT_2024-10": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T17:59:12.215898"
+  },
+  "ETHUSDT_2024-11": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:01:43.167327"
+  },
+  "ETHUSDT_2024-12": {
+    "symbol": "ETHUSDT",
+    "year": 2024,
+    "month": 12,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:04:44.018244"
+  },
+  "ETHUSDT_2025-01": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:07:11.773954"
+  },
+  "ETHUSDT_2025-02": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:09:45.241307"
+  },
+  "ETHUSDT_2025-03": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:12:04.263015"
+  },
+  "ETHUSDT_2025-04": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:14:28.861727"
+  },
+  "ETHUSDT_2025-05": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:17:34.992492"
+  },
+  "ETHUSDT_2025-06": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:19:42.874609"
+  },
+  "ETHUSDT_2025-07": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:22:15.147024"
+  },
+  "ETHUSDT_2025-08": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:25:49.294057"
+  },
+  "ETHUSDT_2025-09": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:29:02.655162"
+  },
+  "ETHUSDT_2025-10": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:32:30.006198"
+  },
+  "ETHUSDT_2025-11": {
+    "symbol": "ETHUSDT",
+    "year": 2025,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T18:37:18.206727"
+  },
+  "TRXUSDT_2024-01": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:12:53.871887"
+  },
+  "TRXUSDT_2024-02": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:02.617124"
+  },
+  "TRXUSDT_2024-03": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:11.423167"
+  },
+  "TRXUSDT_2024-04": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:21.236360"
+  },
+  "TRXUSDT_2024-05": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:28.963327"
+  },
+  "TRXUSDT_2024-06": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:36.254017"
+  },
+  "TRXUSDT_2024-07": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:44.394601"
+  },
+  "TRXUSDT_2024-08": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:13:58.215962"
+  },
+  "TRXUSDT_2024-09": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:14:07.608376"
+  },
+  "TRXUSDT_2024-10": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:14:14.770457"
+  },
+  "TRXUSDT_2024-11": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:14:26.611775"
+  },
+  "TRXUSDT_2024-12": {
+    "symbol": "TRXUSDT",
+    "year": 2024,
+    "month": 12,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:15:07.411522"
+  },
+  "TRXUSDT_2025-01": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 1,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:15:27.101968"
+  },
+  "TRXUSDT_2025-02": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 2,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:15:41.468188"
+  },
+  "TRXUSDT_2025-03": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 3,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:15:55.036022"
+  },
+  "TRXUSDT_2025-04": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 4,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:16:06.573591"
+  },
+  "TRXUSDT_2025-05": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 5,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:16:18.899956"
+  },
+  "TRXUSDT_2025-06": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 6,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:16:30.132732"
+  },
+  "TRXUSDT_2025-07": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 7,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:16:42.593153"
+  },
+  "TRXUSDT_2025-08": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 8,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:16:55.490231"
+  },
+  "TRXUSDT_2025-09": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 9,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:17:06.311680"
+  },
+  "TRXUSDT_2025-10": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 10,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:17:19.620554"
+  },
+  "TRXUSDT_2025-11": {
+    "symbol": "TRXUSDT",
+    "year": 2025,
+    "month": 11,
+    "period": "monthly",
+    "downloaded_at": "2025-12-28T19:17:30.420758"
+  }
+}
